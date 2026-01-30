@@ -42,6 +42,15 @@ Adventure-Travel/
 3. Explore accommodation options in the `accommodation/` folder
 4. Browse additional pages and activities in the `Pages/` folder
 
+## Deployment
+
+This project is configured for GitHub Pages deployment:
+
+1. Push your changes to the `main` branch
+2. GitHub Actions will automatically deploy to GitHub Pages
+3. Enable GitHub Pages in repository settings if not already enabled
+4. Your site will be available at: `https://deadcoder-n.github.io/Adventure-Travel/`
+
 ## Technologies Used
 
 - HTML5
